@@ -1,0 +1,2 @@
+- name: Cloudron Deploy
+  uses: rossmaclean/cloudron-deploy-action@v0.0.23
